@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpRequest, HttpResponse
 
 def index(request):
-    return HttpResponse('Главная страница')
+    return HttpResponse('<b>Главная страница</b>')
 
 def posts_list(request):
     return HttpResponse('Список постов')
