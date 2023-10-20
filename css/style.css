@@ -1,0 +1,16 @@
+
+        body{background:blue;}
+        li a{
+        color:white;
+        }
+        .li3{
+        display:inline-block;
+        text-align:center
+        font-size:15px;
+        }
+        .li2{
+<!--            display:inline-block;-->
+            font-size:20px;
+            font-family:sans-serif;
+            padding:20px;
+        }
